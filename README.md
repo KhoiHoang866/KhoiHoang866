@@ -1,5 +1,5 @@
 ## Hi there 👋
-## My first time using Github ^^ 
+My first time using Github ^^ 
 <!--
 **KhoiHoang866/KhoiHoang866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
